@@ -3,3 +3,5 @@
 rename `.env.sample` to `.env` and modify the variables
 
 in order to start the project run script `start:watch` or `start`
+
+## I'm doing something here too
